@@ -707,9 +707,10 @@ span {
 }
 
 .contact_input {
+  padding: 5px;
   min-width: 360px;
-  border-bottom: 2px solid #fffffb;
   outline: none;
+  border: solid 1px;
   margin-bottom: 36px;
   font-size: 18px;
   font-weight: normal;
